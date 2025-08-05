@@ -1,2 +1,3 @@
-# test-terraform-repo2
-My First Github Project
+#My First Github Project
+My Sample Git project
+
